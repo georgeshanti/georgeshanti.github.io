@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/cpp.1c05422e.png"
   },
   {
-    "revision": "415bf7acce94af2c871c755c48dc5c17",
+    "revision": "5413a7762e55f197632a4ba85b0c567e",
     "url": "/index.html"
   }
 ];
